@@ -1,5 +1,9 @@
 console.log("mencoba fungsi git kedua");
 
-const deduct = (a, b) => a - b;
+const substract = (a, b) => a - b;
+console.log("hasil pengurangan 10 - 5 =");
+console.log(substract(10,5));
 
-console.log("ini adalah perubahan yg sa;aj");
+const add = (a, b) => a + b;
+console.log("hasil penjumlahan 10 + 5 =");
+console.log(add(10,5));
